@@ -4,6 +4,9 @@
     box-sizing: border-box;
     color: black;
 }
+a{
+    text-decoration: none;
+}
 html body{
     text-rendering: optimizeLegibility;
     font-size: 16px;
@@ -40,7 +43,6 @@ h2{
 }
 .btn:link,
 .btn:visited{
- text-decoration: none;
  padding: 10px 30px;
  border-radius: 200px;
  border: #fb183e solid 1px
